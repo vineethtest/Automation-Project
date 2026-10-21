@@ -1,0 +1,5 @@
+{
+  "checkout": {"first_name": "Test", "last_name": "Student", "postal_code": "682001"},
+  "expected_product_count": 6,
+  "first_product": "Sauce Labs Backpack"
+}

@@ -1,0 +1,6 @@
+pytest>=8.0
+playwright>=1.45
+pytest-playwright-asyncio>=0.7
+pytest-asyncio>=0.26
+pytest-html>=4.1
+python-dotenv>=1.0
